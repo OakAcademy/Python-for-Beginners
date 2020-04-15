@@ -1,0 +1,19 @@
+Kepa,GK
+N'Golo Kante,Midfield
+Jorginho,Defence
+Antonio Rudiger,Defence
+Christian Pulisic,Midfield
+Willian,Midfield
+Mateo Kovacic,Midfield
+Cesar Azpilicueta,Defence
+Tiemoue Bakayoko,Defence
+Callum Hudson Odoi,Midfield
+Ross Barkley,Midfield
+Marcos Alonso,Defence
+Michy Batshuayi,Forward
+Andreas Christensen,Defence
+Ruben Koftus Cheek,Midfield
+Kurt Zouma,Defence
+David Luiz,Defence
+Willy Caballero,GK
+Tammy Abraham,Forward
